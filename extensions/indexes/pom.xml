@@ -27,7 +27,7 @@
         <module>ngram</module>
         <module>range</module>
         <module>sort</module>
-        <module>spatial</module>
+        <!--<module>spatial</module>-->
     </modules>
 
 </project>
